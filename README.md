@@ -35,6 +35,9 @@ R - рестарт уровня
 3. Запустить index.html
 
 ## Скриншоты
-(я вспомню, как вставлять скриншоты в md файл....)  
+<img width="834" height="637" alt="screen1" src="https://github.com/user-attachments/assets/a3f633f4-bfa9-4521-ab5f-d5b907026cb0" />
+<img width="827" height="622" alt="screen2" src="https://github.com/user-attachments/assets/3727631c-bf67-4dbb-974d-1715ff35527d" />
+<img width="822" height="626" alt="screen3" src="https://github.com/user-attachments/assets/fd103986-0e14-4599-b758-4f8ae7639edb" />
+
 
 Удачи в сборе черепов и покорении адских уровней! 🔥💀
